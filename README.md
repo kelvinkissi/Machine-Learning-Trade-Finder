@@ -1,5 +1,5 @@
 # Stock Sentiment Word Cloud
-![Stockcloud](Images/stockcloud.jpg)
+![Stockcloud](Images/stockcloud.png)
 Application that allows users to input a stock ticker and generate a word cloud of the sentinments around the stock. Generates a csv file for news headlines and PNG image for word cloud. 
 
 --- 
@@ -47,21 +47,21 @@ Includes Tradingview Recommendation block. Simply type in ticket you want in ' s
 
 Upon running the inital code for NewsAPI, you will asked to input a stock ticker for data (ex. TSLA, GOOG, META) 
 
-![Stock Input](Images/stockinput.PNG)
+![Stock Input](Images/stockinput.png)
 ---
 Get API key:
 
-![API Key](Images/apikey.PNG)
+![API Key](Images/apikey.png)
 ---
 Sentiment Value Dataframe code:
 
-![Sentiment DF](Images/sentimentdf.PNG)
+![Sentiment DF](Images/sentimentdf.png)
 ---
 After running the rest of the code including the tokenized news data you will be able to generate the Word Cloud: 
 
-![WordCloud Input](Images/wordcloudinput.PNG)
+![WordCloud Input](Images/wordcloudinput.png)
 
-![WordCloud](Images/wordcloud.PNG)
+![WordCloud](Images/wordcloud.png)
 
 
 
