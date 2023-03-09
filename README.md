@@ -8,12 +8,12 @@ Application that allows users to input a stock ticker and generate a word cloud 
 
 This project leverages Python 3.7 and Jupyter Lab with the following packages:
 
-* [Pandas] (https://github.com/pandas-dev/pandas) - To create and manipulate dataframes
-* [NewsAPI] (https://newsapi.org/) - To pull news data
-* [NLTK] (https://github.com/nltk/nltk) - To clean and generate wordcloud from news data
-* [Wordcloud] (https://github.com/amueller/word_cloud) - Used to generate final wordcloud display
-* [Tradingview-TA] (https://github.com/brian-the-dev/python-tradingview-ta) - For market sentiment & recommendations from Tradingview
-* [Matplotlib] (https://github.com/matplotlib/matplotlib) - Used to generate final wordcloud display
+* [Pandas](https://github.com/pandas-dev/pandas) - To create and manipulate dataframes
+* [NewsAPI](https://newsapi.org/) - To pull news data
+* [NLTK](https://github.com/nltk/nltk) - To clean and generate wordcloud from news data
+* [Wordcloud](https://github.com/amueller/word_cloud) - Used to generate final wordcloud display
+* [Tradingview-TA](https://github.com/brian-the-dev/python-tradingview-ta) - For market sentiment & recommendations from Tradingview
+* [Matplotlib](https://github.com/matplotlib/matplotlib) - Used to generate final wordcloud display
 
 (Import code blocks included in application)
 
